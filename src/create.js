@@ -51,3 +51,8 @@ const Create = () => {
 }
  
 export default Create;
+
+
+// git remote add origin https://github.com/Solomon-Dugasa/Figma-Clone_Next.git
+// git branch -M main
+// git push -u origin main
